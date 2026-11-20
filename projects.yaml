@@ -773,6 +773,14 @@ projects:
       An MCP server for Inbox Zero. Adds functionality on top of Gmail like
       finding out which emails you need to reply to or need to follow up on.
     category: communication
+  - name: yourbit-network/notibuddy
+    github_id: yourbit-network/notibuddy
+    description: >-
+      End-to-end encrypted native UI on iPhone, iPad, and Apple Watch for coding
+      agents, CLIs, and CI: custom JSON screens, syntax-highlighted code diffs,
+      forms, Live Activities, encrypted file handoff, and device-signed approval
+      gates over HPKE (RFC 9180) and local stdio MCP.
+    category: communication
   - name: antvis/mcp-server-chart
     github_id: antvis/mcp-server-chart
     description:
